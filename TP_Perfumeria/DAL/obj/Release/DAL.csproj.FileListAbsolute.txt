@@ -1,0 +1,9 @@
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\bin\Release\DAL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\bin\Release\DAL.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\bin\Release\System.Data.SqlClient.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\bin\Release\System.Data.SqlClient.xml
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Release\DAL.csproj.Up2Date
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Release\DAL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Release\DAL.pdb

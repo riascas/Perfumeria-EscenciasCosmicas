@@ -1,0 +1,29 @@
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\BLL\bin\Debug\BLL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\BLL\bin\Debug\BLL.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\BLL\bin\Debug\DAL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\BLL\bin\Debug\DAL.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\BLL\obj\Debug\BLL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\BLL\obj\Debug\BLL.pdb
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\BLL\bin\Debug\BLL.dll
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\BLL\bin\Debug\BLL.pdb
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\BLL\bin\Debug\DAL.dll
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\BLL\bin\Debug\DAL.pdb
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\BLL\obj\Debug\BLL.dll
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\BLL\obj\Debug\BLL.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion\BLL\bin\Debug\BLL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\BLL\bin\Debug\BLL.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion\BLL\bin\Debug\DAL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\BLL\bin\Debug\DAL.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Alex\Desktop\Tecnicas de Programacion\BLL\obj\Debug\BLL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\BLL\obj\Debug\BLL.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion\BLL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\BLL\bin\Debug\System.Data.SqlClient.xml

@@ -1,0 +1,16 @@
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\bin\Debug\net6.0-windows\Perfumeria2.0.exe
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\bin\Debug\net6.0-windows\Perfumeria2.0.deps.json
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\bin\Debug\net6.0-windows\Perfumeria2.0.runtimeconfig.json
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\bin\Debug\net6.0-windows\Perfumeria2.0.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\bin\Debug\net6.0-windows\Perfumeria2.0.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\obj\Debug\net6.0-windows\Perfumeria2._0.Form1.resources
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\obj\Debug\net6.0-windows\Perfumeria2.0.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\obj\Debug\net6.0-windows\Perfumeria2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\obj\Debug\net6.0-windows\Perfumeria2.0.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\obj\Debug\net6.0-windows\Perfumeria2.0.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\obj\Debug\net6.0-windows\Perfumeria2.0.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\obj\Debug\net6.0-windows\Perfumeria2.0.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\obj\Debug\net6.0-windows\refint\Perfumeria2.0.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\obj\Debug\net6.0-windows\Perfumeria2.0.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\obj\Debug\net6.0-windows\Perfumeria2.0.genruntimeconfig.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\Perfumeria2.0\obj\Debug\net6.0-windows\ref\Perfumeria2.0.dll

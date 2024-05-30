@@ -1,0 +1,21 @@
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\DAL\bin\Debug\DAL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\DAL\bin\Debug\DAL.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\DAL\obj\Debug\DAL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\Perfumeria2.0UI\DAL\obj\Debug\DAL.pdb
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\DAL\bin\Debug\DAL.dll
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\DAL\bin\Debug\DAL.pdb
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\DAL\obj\Debug\DAL.dll
+C:\Users\Ruthy\Desktop\Perfumeria\Perfumeria-EscenciasCosmicas\DAL\obj\Debug\DAL.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\bin\Debug\DAL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\bin\Debug\DAL.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Debug\DAL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Debug\DAL.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Debug\DAL.csproj.Up2Date

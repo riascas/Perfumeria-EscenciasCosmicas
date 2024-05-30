@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perfumeria2.0UI", "Perfumeria2.0\Perfumeria2.0UI.csproj", "{C72A0498-F7C4-4D38-93A5-D66117A4C92A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{DB714322-CF2C-469F-B059-CEBBDE90979A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{CBDD1AFF-F448-4C4C-BFDC-A6573FA18A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C72A0498-F7C4-4D38-93A5-D66117A4C92A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C72A0498-F7C4-4D38-93A5-D66117A4C92A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C72A0498-F7C4-4D38-93A5-D66117A4C92A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C72A0498-F7C4-4D38-93A5-D66117A4C92A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB714322-CF2C-469F-B059-CEBBDE90979A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB714322-CF2C-469F-B059-CEBBDE90979A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB714322-CF2C-469F-B059-CEBBDE90979A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB714322-CF2C-469F-B059-CEBBDE90979A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBDD1AFF-F448-4C4C-BFDC-A6573FA18A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDD1AFF-F448-4C4C-BFDC-A6573FA18A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDD1AFF-F448-4C4C-BFDC-A6573FA18A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDD1AFF-F448-4C4C-BFDC-A6573FA18A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB662F74-57C7-448B-803A-546C50BD557D}
+	EndGlobalSection
+EndGlobal
