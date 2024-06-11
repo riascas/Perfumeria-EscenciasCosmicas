@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB714322-CF2C-469F-B059-CEBBDE90979A}|BLL\\BLL.csproj|c:\\users\\alex\\desktop\\tecnicas de programacion_2024\\tp_perfumeria\\bll\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB714322-CF2C-469F-B059-CEBBDE90979A}|BLL\\BLL.csproj|solutionrelative:bll\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB714322-CF2C-469F-B059-CEBBDE90979A}|BLL\\BLL.csproj|c:\\users\\alex\\desktop\\tecnicas de programacion_2024\\tp_perfumeria\\bll\\administradosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB714322-CF2C-469F-B059-CEBBDE90979A}|BLL\\BLL.csproj|solutionrelative:bll\\administradosistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -93,11 +97,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\BLL\\Cliente.cs",
+              "RelativeDocumentMoniker": "BLL\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\BLL\\Cliente.cs",
+              "RelativeToolTip": "BLL\\Cliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T00:50:10.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "frmCargaEmpleado.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\frmCargaEmpleado.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\frmCargaEmpleado.cs",
@@ -105,37 +122,35 @@
               "RelativeToolTip": "Perfumeria2.0\\frmCargaEmpleado.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAAAowFIAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T22:27:53.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T22:27:53.711Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AdministradoSistema.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\BLL\\AdministradoSistema.cs",
               "RelativeDocumentMoniker": "BLL\\AdministradoSistema.cs",
               "ToolTip": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\BLL\\AdministradoSistema.cs",
               "RelativeToolTip": "BLL\\AdministradoSistema.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAgwDsAAAANAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-03T23:05:29.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmCargaEmpleado.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\frmCargaEmpleado.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\frmCargaEmpleado.cs",
               "ToolTip": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\frmCargaEmpleado.cs [Dise\u00F1o]",
               "RelativeToolTip": "Perfumeria2.0\\frmCargaEmpleado.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T22:05:25.222Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-06-03T22:05:25.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\Form1.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\Form1.cs",
@@ -147,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Number.Parsing.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\AppData\\Local\\SourceServer\\d56010a3454aacc869a29a23bbd8fcff9c491f86230875710c1f0a3bfa62770d\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\d56010a3454aacc869a29a23bbd8fcff9c491f86230875710c1f0a3bfa62770d\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs",
@@ -155,12 +170,11 @@
               "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\d56010a3454aacc869a29a23bbd8fcff9c491f86230875710c1f0a3bfa62770d\\src\\libraries\\System.Private.CoreLib\\src\\System\\Number.Parsing.cs [Solo lectura]",
               "ViewState": "AQIAABcIAAAAAAAAAAAgwCQIAACJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T22:13:52.242Z",
-              "EditorCaption": " [Solo lectura]"
+              "WhenOpened": "2024-06-10T22:13:52.242Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\DAL\\Conexion.cs",
               "RelativeDocumentMoniker": "DAL\\Conexion.cs",
@@ -168,12 +182,11 @@
               "RelativeToolTip": "DAL\\Conexion.cs",
               "ViewState": "AQIAAJ4AAAAAAAAAAAAAAK4AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T03:56:07.966Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T03:56:07.966Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\Form1.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\Form1.cs",
@@ -184,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Login.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\BLL\\Login.cs",
               "RelativeDocumentMoniker": "BLL\\Login.cs",
@@ -196,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\BLL\\Empleado.cs",
               "RelativeDocumentMoniker": "BLL\\Empleado.cs",
@@ -208,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "frmControlAdmin.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\frmControlAdmin.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\frmControlAdmin.cs",
@@ -220,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "frmControlAdmin.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\frmControlAdmin.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\frmControlAdmin.cs",
@@ -231,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "frmPantallaEmpleados.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\frmPantallaEmpleados.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\frmPantallaEmpleados.cs",
@@ -242,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Empleado.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\DAL\\Empleado.cs",
               "RelativeDocumentMoniker": "DAL\\Empleado.cs",
@@ -254,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "frmControlVendedor.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\frmControlVendedor.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\frmControlVendedor.cs",
@@ -266,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "frmControlVendedor.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\frmControlVendedor.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\frmControlVendedor.cs",
@@ -277,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "frmControlEncargado.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\frmControlEncargado.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\frmControlEncargado.cs",
@@ -288,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "frmControlGerente.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\frmControlGerente.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\frmControlGerente.cs",
@@ -299,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "frmControlEncargado.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\frmControlEncargado.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\frmControlEncargado.cs",
@@ -311,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "frmControlGerente.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\frmControlGerente.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\frmControlGerente.cs",
@@ -323,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\Form1.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\Form1.cs",
@@ -334,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\Form1.cs",
               "RelativeDocumentMoniker": "Perfumeria2.0\\Form1.cs",

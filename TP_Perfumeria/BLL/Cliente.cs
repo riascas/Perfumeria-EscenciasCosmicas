@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace BLL
 {
-    class Cliente
+    public class Cliente : Usuario
     {
         private int _estado;
 
-        public int Estaodo
+        public int Estado
         {
             get { return _estado; }
             set { _estado = value; }
