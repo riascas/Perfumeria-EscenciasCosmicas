@@ -28,5 +28,12 @@ namespace Perfumeria2._0
 
             frmLogin.ShowDialog();
         }
+
+        private void btnAltaEmpleado_Click(object sender, EventArgs e)
+        {
+            frmCargaEmpleado frmEmpleado = new frmCargaEmpleado();
+
+            frmEmpleado.ShowDialog();
+        }
     }
 }

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace BLL
 {
-    class Vendedor : Empleado
+    class Vendedor
     {
-        public Vendedor(int numLegajo, string nombreUsuario, string clave, string perfil) : base(numLegajo, nombreUsuario, clave, perfil)
+        public Vendedor(int numLegajo, string nombreUsuario, string clave, string perfil)// : base(numLegajo, nombreUsuario, clave, perfil)
         {
         }
 

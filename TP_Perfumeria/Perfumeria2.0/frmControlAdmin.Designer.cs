@@ -29,8 +29,8 @@
         private void InitializeComponent()
         {
             label1 = new Label();
-            btnAltaUsuario = new Button();
-            btnBajaUsuario = new Button();
+            btnAltaEmpleado = new Button();
+            btnBajaEmpleado = new Button();
             btnSalirAdmin = new Button();
             btnVolverLogin = new Button();
             SuspendLayout();
@@ -45,25 +45,26 @@
             label1.TabIndex = 0;
             label1.Text = "Control de Administrador de Sistemas";
             // 
-            // btnAltaUsuario
+            // btnAltaEmpleado
             // 
-            btnAltaUsuario.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            btnAltaUsuario.Location = new Point(214, 193);
-            btnAltaUsuario.Name = "btnAltaUsuario";
-            btnAltaUsuario.Size = new Size(125, 74);
-            btnAltaUsuario.TabIndex = 1;
-            btnAltaUsuario.Text = "Alta de Usuarios";
-            btnAltaUsuario.UseVisualStyleBackColor = true;
+            btnAltaEmpleado.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            btnAltaEmpleado.Location = new Point(214, 193);
+            btnAltaEmpleado.Name = "btnAltaEmpleado";
+            btnAltaEmpleado.Size = new Size(125, 74);
+            btnAltaEmpleado.TabIndex = 1;
+            btnAltaEmpleado.Text = "Alta de Empleado";
+            btnAltaEmpleado.UseVisualStyleBackColor = true;
+            btnAltaEmpleado.Click += btnAltaEmpleado_Click;
             // 
-            // btnBajaUsuario
+            // btnBajaEmpleado
             // 
-            btnBajaUsuario.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            btnBajaUsuario.Location = new Point(468, 193);
-            btnBajaUsuario.Name = "btnBajaUsuario";
-            btnBajaUsuario.Size = new Size(125, 74);
-            btnBajaUsuario.TabIndex = 2;
-            btnBajaUsuario.Text = "Baja de Usuarios";
-            btnBajaUsuario.UseVisualStyleBackColor = true;
+            btnBajaEmpleado.Font = new Font("Lucida Console", 12F, FontStyle.Regular, GraphicsUnit.Point);
+            btnBajaEmpleado.Location = new Point(468, 193);
+            btnBajaEmpleado.Name = "btnBajaEmpleado";
+            btnBajaEmpleado.Size = new Size(125, 74);
+            btnBajaEmpleado.TabIndex = 2;
+            btnBajaEmpleado.Text = "Baja de Empleado";
+            btnBajaEmpleado.UseVisualStyleBackColor = true;
             // 
             // btnSalirAdmin
             // 
@@ -96,8 +97,8 @@
             ClientSize = new Size(800, 450);
             Controls.Add(btnVolverLogin);
             Controls.Add(btnSalirAdmin);
-            Controls.Add(btnBajaUsuario);
-            Controls.Add(btnAltaUsuario);
+            Controls.Add(btnBajaEmpleado);
+            Controls.Add(btnAltaEmpleado);
             Controls.Add(label1);
             Name = "frmControlAdmin";
             Text = "frmControlAdmin";
@@ -108,8 +109,8 @@
         #endregion
 
         private Label label1;
-        private Button btnAltaUsuario;
-        private Button btnBajaUsuario;
+        private Button btnAltaEmpleado;
+        private Button btnBajaEmpleado;
         private Button btnSalirAdmin;
         private Button btnVolverLogin;
     }

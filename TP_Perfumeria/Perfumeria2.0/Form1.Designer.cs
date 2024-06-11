@@ -103,8 +103,10 @@
             // 
             tboxClave.Location = new Point(264, 212);
             tboxClave.Name = "tboxClave";
+            tboxClave.PasswordChar = '#';
             tboxClave.Size = new Size(217, 23);
             tboxClave.TabIndex = 6;
+            tboxClave.TextChanged += tboxClave_TextChanged;
             // 
             // Form1
             // 

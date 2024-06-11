@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace BLL
 {
-    class Gerente : Empleado
+    class Gerente
     {
-        public Gerente(int numLegajo, string nombreUsuario, string clave, string perfil) : base(numLegajo, nombreUsuario, clave, perfil)
+        public Gerente(int numLegajo, string nombreUsuario, string clave, string perfil)// : base(numLegajo, nombreUsuario, clave, perfil)
         {
         }
 

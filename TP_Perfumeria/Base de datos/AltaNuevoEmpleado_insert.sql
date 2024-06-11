@@ -1,0 +1,2 @@
+exec AltaNuevoEmpleado 'Alem', 3652, 'Monte Grande', 'Esteban Echeverria', '1604MG', 'Buenos Aires', 
+'Argentina', 'Mauricio', 'Cañete', 32659887, 'mcanete@perfumeria.com.ar', 1159786532, 0101, 'mcanete', '123456', 'encargado', 4

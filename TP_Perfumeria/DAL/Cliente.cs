@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DAL
 {
-    class Cliente : Usuario
+    class Cliente
     {
         private int _estado;
 

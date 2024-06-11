@@ -1,19 +1,19 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\Perfumeria2.0\\Perfumeria2.0UI.csproj": {}
+    "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\Perfumeria2.0UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\BLL\\BLL.csproj": {
+    "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\BLL\\BLL.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\BLL\\BLL.csproj",
+        "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\BLL\\BLL.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\DAL\\DAL.csproj"
+              "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\DAL\\DAL.csproj"
               }
             }
           }
@@ -23,11 +23,11 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\DAL\\DAL.csproj": {
+    "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\DAL\\DAL.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\DAL\\DAL.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}
@@ -38,14 +38,14 @@
         "net48": {}
       }
     },
-    "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\Perfumeria2.0\\Perfumeria2.0UI.csproj": {
+    "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\Perfumeria2.0UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\Perfumeria2.0\\Perfumeria2.0UI.csproj",
+        "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\Perfumeria2.0UI.csproj",
         "projectName": "Perfumeria2.0UI",
-        "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\Perfumeria2.0\\Perfumeria2.0UI.csproj",
+        "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\Perfumeria2.0UI.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\Perfumeria2.0\\obj\\",
+        "outputPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -62,8 +62,8 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\BLL\\BLL.csproj": {
-                "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\BLL\\BLL.csproj"
+              "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\BLL\\BLL.csproj": {
+                "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\BLL\\BLL.csproj"
               }
             }
           }

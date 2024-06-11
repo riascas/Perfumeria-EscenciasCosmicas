@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BnaT0h8DUnN0aJH77KyYCUhdACdaZiDdkYYzuo8fnHsPMlHJz0VD8WlIIelZI5sugYZDVBYorTEIHm3b4ul31A==",
+  "dgSpecHash": "2ptggXRbhZaCeUpMaOqyMVE4agJPq9735+kKKuf+WDiwc6QKPqaPgyZkHzalVfnUXS1GkYOdd1Omy/wQJJXHow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\Perfumeria2.0\\Perfumeria2.0UI.csproj",
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\Perfumeria2.0UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

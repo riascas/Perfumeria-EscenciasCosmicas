@@ -7,3 +7,12 @@ C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Release\DAL.csproj.CoreCo
 C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Release\DAL.csproj.Up2Date
 C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Release\DAL.dll
 C:\Users\Alex\Desktop\Tecnicas de Programacion\DAL\obj\Release\DAL.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\DAL\bin\Release\DAL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\DAL\bin\Release\DAL.pdb
+C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\DAL\bin\Release\System.Data.SqlClient.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\DAL\bin\Release\System.Data.SqlClient.xml
+C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\DAL\obj\Release\DAL.csproj.Up2Date
+C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\DAL\obj\Release\DAL.dll
+C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\DAL\obj\Release\DAL.pdb

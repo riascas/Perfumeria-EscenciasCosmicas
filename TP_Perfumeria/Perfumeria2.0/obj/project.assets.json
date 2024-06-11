@@ -507,11 +507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\Perfumeria2.0\\Perfumeria2.0UI.csproj",
+      "projectUniqueName": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\Perfumeria2.0UI.csproj",
       "projectName": "Perfumeria2.0UI",
-      "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\Perfumeria2.0\\Perfumeria2.0UI.csproj",
+      "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\Perfumeria2.0UI.csproj",
       "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\Perfumeria2.0\\obj\\",
+      "outputPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\Perfumeria2.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -528,8 +528,8 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\BLL\\BLL.csproj": {
-              "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion1\\BLL\\BLL.csproj"
+            "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\BLL\\BLL.csproj": {
+              "projectPath": "C:\\Users\\Alex\\Desktop\\Tecnicas de Programacion_2024\\TP_Perfumeria\\BLL\\BLL.csproj"
             }
           }
         }

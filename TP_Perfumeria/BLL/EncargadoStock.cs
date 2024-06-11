@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace BLL
 {
-    class EncargadoStock : Empleado
+    class EncargadoStock
     {
         //Constructor (lo hace el visual cuando le indicas la dependencia)
-        public EncargadoStock(int numLegajo, string nombreUsuario, string clave, string perfil) : base(numLegajo, nombreUsuario, clave, perfil)
+        public EncargadoStock(int numLegajo, string nombreUsuario, string clave, string perfil)
         {
         }
 

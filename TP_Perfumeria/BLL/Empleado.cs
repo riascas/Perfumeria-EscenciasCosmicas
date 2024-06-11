@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace BLL
 {
-    public class Empleado
+    public class Empleado : Usuario
     {
 		private int _numLegajo;
 
@@ -37,12 +37,17 @@ namespace BLL
 			get { return _perfil; }
 			set { _perfil = value; }
 		}
-        public Empleado(int numLegajo, string nombreUsuario, string clave, string perfil)
+		private int _indicadorPerfil;
+
+		public int IndicadorPerfil
+		{
+			get { return _indicadorPerfil; }
+			set { _indicadorPerfil = value; }
+		}
+
+		public Empleado(string calle, int altura, string localidad, string distrito, string codPostal, string provincia, string pais, string nombre, string apellido, int dni, string email, int telefono, int numLegajo, string nombreUsuario, string clave, string perfil, int indicadorPerfil)
         {
-			this.NumLegajo = numLegajo;
-			this.NombreUsuario = nombreUsuario;
-			this.Clave = clave;
-			this.Perfil = perfil;
+			
         }
     }
 }

@@ -6,8 +6,58 @@ using System.Threading.Tasks;
 
 namespace BLL
 {
-    public abstract class Usuario //agrego la palabra abstract para indicar que es la clase abstracta
+    public abstract class Usuario 
     {
+		private string _calle;
+
+		public string Calle
+		{
+			get { return _calle; }
+			set { _calle = value; }
+		}
+		private int _altura;
+
+		public int Altura
+		{
+			get { return _altura; }
+			set { _altura = value; }
+		}
+		private string _localidad;
+
+		public string Localidad
+		{
+			get { return _localidad; }
+			set { _localidad = value; }
+		}
+		private string _distrito;
+
+		public string Distrito
+		{
+			get { return _distrito; }
+			set { _distrito = value; }
+		}
+		private string _codPostal;
+
+		public string CodPostal
+		{
+			get { return _codPostal; }
+			set { _codPostal = value; }
+		}
+		private string _provincia;
+
+		public string Provincia
+		{
+			get { return _provincia; }
+			set { _provincia = value; }
+		}
+		private string _pais;
+
+		public string Pais
+		{
+			get { return _pais; }
+			set { _pais = value; }
+		}
+
 		private string _nombre;
 
 		public string Nombre
@@ -44,13 +94,6 @@ namespace BLL
 			set { _telefono = value; }
 		}
 
-		public Usuario (string nombre, string apellido, int dni, string email, int telefono)
-        {
-			this.Nombre = nombre;
-			this.Apellido = apellido;
-			this.DNI = dni;
-			this.Email = email;
-			this.Telefono = telefono;
-        }
+		
     }
 }

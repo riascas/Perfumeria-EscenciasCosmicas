@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Perfumeria2.0UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8105c173e21d4ce9c2c051095431e736df865f27")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4554185021454f965b3980dc71df03daa896a9fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Perfumeria2.0UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Perfumeria2.0UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

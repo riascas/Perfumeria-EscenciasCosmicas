@@ -23,12 +23,12 @@ namespace Perfumeria2._0
         {
             string nomUsuario = tboxUsuario.Text;
             string clave = tboxClave.Text;
-            
+
             BLL.Login UnLogin = new BLL.Login();
 
-            if (UnLogin.IniciarSesion(nomUsuario, clave)) 
+            if (UnLogin.IniciarSesion(nomUsuario, clave))
             {
-                
+
                 List<string> usuariosAdmin = UnLogin.PerfilAdmin(null);
                 List<string> usuarioGerente = UnLogin.PerfilGerente(null);
                 List<string> usuarioVendedor = UnLogin.PerfilVendedor(null);
@@ -38,20 +38,20 @@ namespace Perfumeria2._0
                 foreach (string user in usuariosAdmin)
                 {
                     if (user == nomUsuario)
-                    {                                                
+                    {
                         frmControlAdmin controlAdmin = new frmControlAdmin();
 
                         controlAdmin.Show();
-                        
+
                     }
-                    
+
                 }
                 foreach (string user in usuarioGerente)
                 {
                     if (user == nomUsuario)
                     {
                         frmControlGerente controlGerente = new frmControlGerente();
-                        
+
                         controlGerente.Show();
                     }
                 }
@@ -78,11 +78,16 @@ namespace Perfumeria2._0
 
                 //pantallaEmpleados.Show();
             }
-                
+
             else
             {
                 MessageBox.Show("Error en intento de Login");
             }
+        }
+
+        private void tboxClave_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
