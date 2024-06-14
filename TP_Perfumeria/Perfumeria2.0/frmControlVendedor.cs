@@ -28,5 +28,13 @@ namespace Perfumeria2._0
 
             frmLogin.ShowDialog();
         }
+
+        private void btnRealiarVenta_Click(object sender, EventArgs e)
+        {
+            frmRealizarVenta RealizarVenta = new frmRealizarVenta();
+
+            RealizarVenta.ShowDialog();
+
+        }
     }
 }

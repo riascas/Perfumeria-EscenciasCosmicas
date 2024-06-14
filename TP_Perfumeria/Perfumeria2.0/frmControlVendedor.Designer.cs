@@ -77,6 +77,7 @@
             btnRealiarVenta.TabIndex = 5;
             btnRealiarVenta.Text = "Realizar Venta";
             btnRealiarVenta.UseVisualStyleBackColor = true;
+            btnRealiarVenta.Click += btnRealiarVenta_Click;
             // 
             // btnGestionClientes
             // 

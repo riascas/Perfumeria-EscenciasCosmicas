@@ -100,3 +100,4 @@ C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\Perfumeria2.0\
 C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\Perfumeria2.0\obj\Release\net6.0-windows\Perfumeria2.0UI.genruntimeconfig.cache
 C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\Perfumeria2.0\obj\Release\net6.0-windows\ref\Perfumeria2.0UI.dll
 C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\Perfumeria2.0\obj\Release\net6.0-windows\Perfumeria2._0.frmCargaEmpleado.resources
+C:\Users\Alex\Desktop\Tecnicas de Programacion_2024\TP_Perfumeria\Perfumeria2.0\obj\Release\net6.0-windows\Perfumeria2._0.frmRealizarVenta.resources
